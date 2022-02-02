@@ -1,0 +1,6 @@
+body {
+  --font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue",
+    "Helvetica", "Arial", sans-serif;
+
+  --cursor-default: url("/assets/cursors/normal-select.svg");
+}
